@@ -1,0 +1,32 @@
+.float {
+padding: 10px;
+}
+
+.floatcenter {
+    padding: 20% 50% 20%;
+}
+    
+    #b1 {
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+        float: left;
+        
+    
+    }
+    
+    #b2 {
+        width: 100px;
+        height: 100px;
+        background-color: green;
+        float: right;
+        
+    }
+    
+    #b3 {
+        width: 100px;
+        height: 100px;
+        background-color: red;
+        float: center;
+     
+}
